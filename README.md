@@ -1,10 +1,11 @@
 # Mustafizur Rahman's Data Science Portfolio
 Wellcome
 
-Welcome to my data science portfolio! In the folders above are various data science projects that showcase my skills in wrangling/munging,  manipulation, visualization, analysis known as EDA, experimenting and modeling using Machine Learning techniques with data. Following is a brief overview of the various projects those I completed. More details can be find in each respective folder.
+Welcome to my data science portfolio! In the folders above are various data science projects that showcase my skills in wrangling/munging,  manipulation, visualization, analysis known as EDA, experimenting and modeling using Machine Learning techniques with data. 
 
-<b>Capstone Project: New York City 311 Non Emergency Complaint System</b>
-[Capstone project](https://github.com/mmrahman10/Data-Science-Machine-Learning-Capstone-Project)
+Following is a brief overview of the various projects those I completed. More details can be find in each respective folder.
+
+[Capstone Project](https://github.com/mmrahman10/Data-Science-Machine-Learning-Capstone-Project) **New York City 311 Non Emergency Complaint System**
 
 <b>Fracture Effectiveness </b>
 
