@@ -13,7 +13,7 @@ In this project I developed a predictive model for a future prediction of the po
 
 **Skills Showcased:** EDA, Inquisitivity, Statistics, Visualizations, Research Outcomes and Recommendations
 
-<b>Fracture Effectiveness </b>
+[Fracture Effectiveness]()
 
 
 
