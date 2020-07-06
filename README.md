@@ -22,4 +22,5 @@ Using production data, we need at least several months of well production histor
 The main objective of this work is to estimate stimulated reservoir volume during injection from routinely collected fracture treatment data in real time for each stage and compare aggregated stage-wise stimulated reservoir volumes to total well production drainage volume.
 
 **Skills Showcased:** EDA, Data Cleaning, Feature Engineering, Data Driven Modeling using Machine Learning Techniques, Visualizations, Research Outcomes and Recommendations.
+
 **NOTE: As I developed this model for Anadarko Petroleum Corporation and the company owned the IP I'm unable to upload those code here. Just sharing those results as these are now in public domain**
